@@ -9,3 +9,4 @@ class ControllerIndex extends Controller {
     }
 
 }
+?>
